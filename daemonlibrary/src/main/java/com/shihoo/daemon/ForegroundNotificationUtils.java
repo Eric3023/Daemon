@@ -8,9 +8,8 @@ import android.content.Context;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.os.Build;
-import android.os.Handler;
-import android.os.Message;
-import android.support.annotation.DrawableRes;
+
+import androidx.annotation.DrawableRes;
 
 /**
  * Created by Shihoo.Wang 2019/7/11

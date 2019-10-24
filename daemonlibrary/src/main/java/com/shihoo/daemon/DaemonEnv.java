@@ -4,11 +4,8 @@ import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
-import android.support.annotation.NonNull;
-import android.util.Log;
 
-import com.shihoo.daemon.work.AbsWorkService;
-
+import androidx.annotation.NonNull;
 
 /**
  * daemon 环境配置 每个进程独享一份 不同的进程，所有的静态和单例都会失效

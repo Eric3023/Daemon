@@ -4,7 +4,8 @@ import android.content.ContentProvider;
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.net.Uri;
-import android.support.annotation.Nullable;
+
+import androidx.annotation.Nullable;
 
 /**
  * Created by shihu.wang on 2017/4/10.
