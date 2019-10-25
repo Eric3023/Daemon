@@ -24,6 +24,6 @@ android {
 }
 
 dependencies {
-    api 'io.reactivex.rxjava2:rxjava:2.+'
-    api 'com.android.support:support-annotations:+'
+    implementation 'io.reactivex.rxjava2:rxjava:2.+'
+    implementation 'com.android.support:support-annotations:+'
 }
